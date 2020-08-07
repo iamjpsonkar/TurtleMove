@@ -29,10 +29,12 @@ after every move, the position of each turtle is checked, if any turtle crosses 
 
 ## Screenshot of the game
 
-Start Of game
+### Start Of game
+
 ![alt text](https://github.com/iamjpsonkar/TurtleMove/blob/master/init%20game.jpg)
 
 
-If Blue won
+### If Blue won
+
 ![alt text](https://github.com/iamjpsonkar/TurtleMove/blob/master/end%20game.jpg)
 
